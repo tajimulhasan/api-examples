@@ -1,0 +1,44 @@
+#countries{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+}
+
+
+.country{
+      padding: 3px;
+      background-color: antiquewhite;
+      margin: 12px;
+      text-align: center;
+      border: 2px dashed rgb(184, 184, 184);
+      border-radius: 12px;
+      -webkit-border-radius: 12px;
+      -moz-border-radius: 12px;
+      -ms-border-radius: 12px;
+      -o-border-radius: 12px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: orange;
+    width: 240px;
+    border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -moz-border-radius: 33px;
+    -ms-border-radius: 33px;
+    -o-border-radius: 33px;
+    font-size: 44px;
+}
+.count{
+    display: flex;
+    justify-content: center;
+    
+}
+.doc h3{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+

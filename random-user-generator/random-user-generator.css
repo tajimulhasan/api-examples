@@ -1,0 +1,27 @@
+.user-info{
+    margin: 0px 0px 0px;
+}
+.user-info h5{
+    margin-bottom: 10px;
+}
+.image{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.whole-div{
+    /* box-shadow: 0px 0px 10px 0px black; */
+    padding: 6px;
+    width: max-content;
+   
+    margin-left: auto;
+    margin-right: auto;
+    background-image:linear-gradient(rgb(252, 234, 255), rgb(223, 232, 255));
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+   
+
+}
